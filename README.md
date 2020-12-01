@@ -11,5 +11,5 @@ The data are based on scattered sensor that are capable to mesure the pressure, 
 ### Machine Learning Algorithm
 One possible application is to build forecast algorithm for futures levels of pressure, temperature and humidity. Howerver, there are a thousands of sensors in differents positions, this make impossible to predict this number of time series.
 To solve this issue, it's possible to cluster differents time series with the intention to reduce the numbers of differents algorithms that are necessaty to build.
-In summery, this project will cluster differents time series with Bi Data Frameworks.
+In summary, this project will cluster differents time series with Big Data Frameworks.
 
